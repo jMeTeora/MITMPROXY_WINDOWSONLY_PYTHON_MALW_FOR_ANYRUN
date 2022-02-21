@@ -1,0 +1,2 @@
+Python36-32\pythonw.exe C:\Users\Admin\AppData\Local\mrJWF\cNJ.py 7ec3c7e7a71972d9dcbe33adc3bdb323
+Python36-32\pythonw.exe C:\Users\Admin\AppData\Local\mrJWF\cNJ.py iKZwTiAm
